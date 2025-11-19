@@ -15,7 +15,7 @@ My objective is to work as a SOC Tier 1 Analyst while continuously improving my 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href=https://github.com/kenardodennis6-bit/SOC-Automation-Home-Lab/tree/main>SOC Automation Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -61,6 +61,6 @@ My objective is to work as a SOC Tier 1 Analyst while continuously improving my 
 </div>
 
 ## Projects
-- SOC Automation Project
+- <a href=https://github.com/kenardodennis6-bit/SOC-Automation-Home-Lab/tree/main>SOC Automation Lab</a>
 - Cybersecurity SOAR + EDR Automation Project  Lab
 - T-Pot Honeypot Deployment Project
