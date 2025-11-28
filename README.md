@@ -64,5 +64,6 @@ My objective is to work as a SOC Tier 1 Analyst while continuously improving my 
 - <a href=https://github.com/kenardodennis6-bit/SOC-Automation-Home-Lab/tree/main>SOC Automation Lab</a>
 - <a href=https://github.com/kenardodennis6-bit/Cybersecurity-SOAR-EDR-Automation-Project-Lab>Cybersecurity SOAR + EDR Automation Project  Lab</a>
 - <a href=https://github.com/kenardodennis6-bit/T-Pot-Honeypot-Deployment-Project>T-Pot Honeypot Deployment Project</a>
+- <a href=https://github.com/kenardodennis6-bit/Active-Directory-AD-Splunk-SOAR-Automation-Project->Active Directory (AD + Splunk + SOAR Automation Project)</a>
 - Cybersecurity SOAR + EDR Automation Project  Lab
 - T-Pot Honeypot Deployment Project
